@@ -1,0 +1,23 @@
+G:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\TP2.cs\TP2.cs\bin\Debug\TP2.cs.exe.config
+G:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\TP2.cs\TP2.cs\obj\Debug\TP2.cs.csprojResolveAssemblyReference.cache
+G:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\TP2.cs\TP2.cs\bin\Debug\TP2.cs.exe
+G:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\TP2.cs\TP2.cs\bin\Debug\TP2.cs.pdb
+G:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\TP2.cs\TP2.cs\obj\Debug\TP2.cs.exe
+G:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\TP2.cs\TP2.cs\obj\Debug\TP2.cs.pdb
+G:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP2.cs\bin\Debug\TP2.cs.exe.config
+G:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP2.cs\obj\Debug\TP2.cs.exe
+G:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP2.cs\obj\Debug\TP2.cs.pdb
+E:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP2.cs\bin\Debug\TP2.cs.exe.config
+E:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP2.cs\bin\Debug\TP2.cs.exe
+E:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP2.cs\bin\Debug\TP2.cs.pdb
+E:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP2.cs\obj\Debug\TP2.cs.exe
+E:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP2.cs\obj\Debug\TP2.cs.pdb
+E:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP2.cs\obj\Debug\TP2.cs.csprojAssemblyReference.cache
+E:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP2.cs\obj\Debug\TP2.cs.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP2.cs\bin\Debug\TP2.cs.exe.config
+C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP2.cs\bin\Debug\TP2.cs.exe
+C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP2.cs\bin\Debug\TP2.cs.pdb
+C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP2.cs\obj\Debug\TP2.cs.csprojAssemblyReference.cache
+C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP2.cs\obj\Debug\TP2.cs.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP2.cs\obj\Debug\TP2.cs.exe
+C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP2.cs\obj\Debug\TP2.cs.pdb

@@ -1,0 +1,6 @@
+E:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP3.cs\bin\Release\TP3.cs.exe.config
+E:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP3.cs\bin\Release\TP3.cs.exe
+E:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP3.cs\bin\Release\TP3.cs.pdb
+E:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP3.cs\obj\Release\TP3.cs.csproj.CoreCompileInputs.cache
+E:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP3.cs\obj\Release\TP3.cs.exe
+E:\BACK UP\carrera de ing.informatica\Complegidad temporal, estructuras de datos y algoritmos\CTEDyA 2020\practica\practica.cs\TP3.cs\obj\Release\TP3.cs.pdb
