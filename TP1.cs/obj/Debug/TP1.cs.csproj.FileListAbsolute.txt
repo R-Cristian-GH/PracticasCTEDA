@@ -13,3 +13,10 @@ C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP1.cs\obj\Debug\TP1
 C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP1.cs\obj\Debug\TP1.cs.csproj.CoreCompileInputs.cache
 C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP1.cs\obj\Debug\TP1.cs.exe
 C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP1.cs\obj\Debug\TP1.cs.pdb
+C:\Users\Cristian Relos\Documents\GitHub\PracticasCTEDA\TP1.cs\bin\Debug\TP1.cs.exe.config
+C:\Users\Cristian Relos\Documents\GitHub\PracticasCTEDA\TP1.cs\bin\Debug\TP1.cs.exe
+C:\Users\Cristian Relos\Documents\GitHub\PracticasCTEDA\TP1.cs\bin\Debug\TP1.cs.pdb
+C:\Users\Cristian Relos\Documents\GitHub\PracticasCTEDA\TP1.cs\obj\Debug\TP1.cs.csprojAssemblyReference.cache
+C:\Users\Cristian Relos\Documents\GitHub\PracticasCTEDA\TP1.cs\obj\Debug\TP1.cs.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Relos\Documents\GitHub\PracticasCTEDA\TP1.cs\obj\Debug\TP1.cs.exe
+C:\Users\Cristian Relos\Documents\GitHub\PracticasCTEDA\TP1.cs\obj\Debug\TP1.cs.pdb

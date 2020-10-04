@@ -78,10 +78,9 @@ namespace TP2
                 //primero procesamos la raiz
                 Console.WriteLine(this.getDatoRaiz());
                 //llamada recursiva en hijo izquierdo
-                if (!this.getHijoIzquierdo().esVacio())
+                if (!this.getHijoIzquierdo().esVacio()) 
+                { 
                     this.getHijoIzquierdo().preorden();
-                {
-
                 }
                 //llamada recursiva en hijo derecho
                 if (!this.getHijoDerecho().esVacio())
@@ -95,9 +94,8 @@ namespace TP2
 
             //llamada recursiva en hijo izquierdo
             if (!this.getHijoIzquierdo().esVacio())
-                this.getHijoIzquierdo().postorden();
             {
-
+                this.getHijoIzquierdo().postorden();
             }
             //llamada recursiva en hijo derecho
             if (!this.getHijoDerecho().esVacio())

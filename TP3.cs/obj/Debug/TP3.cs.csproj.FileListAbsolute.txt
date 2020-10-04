@@ -12,3 +12,10 @@ C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP3.cs\obj\Debug\TP3
 C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP3.cs\obj\Debug\TP3.cs.exe
 C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP3.cs\obj\Debug\TP3.cs.pdb
 C:\Users\Cristian Relos\Documents\PracticaCTEDA\practica.cs\TP3.cs\obj\Debug\TP3.cs.csprojAssemblyReference.cache
+C:\Users\Cristian Relos\Documents\GitHub\PracticasCTEDA\TP3.cs\bin\Debug\TP3.cs.exe.config
+C:\Users\Cristian Relos\Documents\GitHub\PracticasCTEDA\TP3.cs\bin\Debug\TP3.cs.exe
+C:\Users\Cristian Relos\Documents\GitHub\PracticasCTEDA\TP3.cs\bin\Debug\TP3.cs.pdb
+C:\Users\Cristian Relos\Documents\GitHub\PracticasCTEDA\TP3.cs\obj\Debug\TP3.cs.csprojAssemblyReference.cache
+C:\Users\Cristian Relos\Documents\GitHub\PracticasCTEDA\TP3.cs\obj\Debug\TP3.cs.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Relos\Documents\GitHub\PracticasCTEDA\TP3.cs\obj\Debug\TP3.cs.exe
+C:\Users\Cristian Relos\Documents\GitHub\PracticasCTEDA\TP3.cs\obj\Debug\TP3.cs.pdb

@@ -14,7 +14,7 @@ namespace tp3
 
         public ArbolBinarioBusqueda(IComparable dato){
 			this.dato = dato;
-			this.raiz = this.dato;
+			//this.raiz = this.dato;
 		}
 		
 		
@@ -53,7 +53,7 @@ namespace tp3
 
 		public bool esHoja()
 		{
-			return this.raiz != null && this.getHijoIzquierdo().esVacio() && this.getHijoDerecho().esVacio();
+			return this.raiz != null && this.getHijoIzquierdo()==null && this.getHijoDerecho()==null;
 		}
 
 		public void agregar(IComparable elem)
@@ -61,8 +61,8 @@ namespace tp3
             switch (elem.CompareTo(this.getDatoRaiz()))//comparo el elemto a agregar(elemto B) con el elemento raiz(elemento A)
             {                                          //el CompareTo me devuelve mayor a cero en caso de que el elemento B sea mayor
 				                                       //menor a cero en caso de que sea menor, cero en caso de que sea igual a el elemento A
-				case 1:       
-                    if (hijoDerecho==null) 
+				case 1:       //en caso de que el elemto a agregar sea mayor a la raiz
+                    if (hijoDerecho==null)
 					{
 						agregarHijoDerecho(new ArbolBinarioBusqueda(elem));
 						Console.WriteLine("padre: " + this.getDatoRaiz().ToString() + " ; hijo derecho: " + getHijoDerecho().getDatoRaiz().ToString());
@@ -73,7 +73,7 @@ namespace tp3
                     }
 					
 					break;
-				case -1:
+				case -1:      //en caso de que el elemento a agregar sea menor a la raiz
 					if (hijoIzquierdo == null)
 					{
 						agregarHijoIzquierdo(new ArbolBinarioBusqueda(elem));
@@ -85,38 +85,69 @@ namespace tp3
 					}
 					break;
 				default:
-					Console.WriteLine("");
+						break;
+			}
+		}
+		
+		public bool incluye(IComparable elem)
+		{
+			bool resul = false;
+			switch (elem.CompareTo(this.getDatoRaiz()))//comparo el elemto a agregar(elemto B) con el elemento raiz(elemento A)
+			{                                          //el CompareTo me devuelve mayor a cero en caso de que el elemento B sea mayor
+													   //menor a cero en caso de que sea menor, cero en caso de que sea igual a el elemento A
+				case 1:
+					{
+						hijoDerecho.incluye(elem);
+						break;
+					}
+				case -1:
+                    {
+						hijoIzquierdo.incluye(elem);
+						break;
+                    }
+				case 0:       //en caso de que el elemto a agregar ya este en el arbol
+					{
+						Console.WriteLine("el elemento: "+ elem + ", elemento ya se encuentra en el arbol");
+						Console.WriteLine("por favor ingrese otro elemento");
+						resul = true;
+						break;
+					}
+
+				default:    
 					break;
 			}
-			
-			/*if ()
+			return resul;
+		}
+
+
+		public void preorden() 
+		{
+            if (this!=null)
             {
-                if (hijoDerecho.esVacio())
-                {
-					agregarHijoDerecho(new ArbolBinarioBusqueda(elem));
-                }
-				hijoDerecho.agregar(elem);
+				Console.WriteLine(this.getDatoRaiz().ToString());
+				if(this.getHijoIzquierdo()!=null)
+					this.getHijoIzquierdo().preorden();
+				if(this.getHijoDerecho()!=null)
+					this.getHijoDerecho().preorden();
             }
-			if ((int)this.getDatoRaiz() >= (int)elem)
+		}
+		
+		public void inorden() 
+		{
+			if (this != null)
 			{
-                if (hijoIzquierdo.esVacio())
+				if (this.getHijoIzquierdo() != null) 
+				{ 
+					this.getHijoIzquierdo().preorden();
+					
+				}
+				Console.WriteLine(this.getDatoRaiz().ToString());
+				if (this.getHijoDerecho() != null)
                 {
-					agregarHijoIzquierdo(new ArbolBinarioBusqueda(elem));
+					this.getHijoDerecho().preorden();
                 }
-				hijoIzquierdo.agregar(elem);
-			}*/
-		}
-		
-		
-		public bool incluye(IComparable elem) {
-			return false;
-		}
-
-
-		public void preorden() {
-		}
-		
-		public void inorden() {
+					
+			}
 		}
 		
 		public void postorden() {
